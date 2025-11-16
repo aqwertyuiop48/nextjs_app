@@ -19,6 +19,6 @@
     "eslint-config-next": "12.3.0"
   },
   "main": "index.js",
-  "repository": "https://github.com/sreegithub19/nextjs_app.git",
+  "repository": "https://github.com/aqwertyuiop48/nextjs_app.git",
   "license": "MIT"
 }

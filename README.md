@@ -51,9 +51,9 @@ https://user-images.githubusercontent.com/55496113/222212597-f4025ba5-d077-4895-
 
 URLs:-
 
-- https://nextjs-sreegithub19.vercel.app/index
-- https://nextjs-sreegithub19.vercel.app
-- https://nextjs-sreegithub19.vercel.app/api/hello
+- https://nextjs-aqwertyuiop48.vercel.app/index
+- https://nextjs-aqwertyuiop48.vercel.app
+- https://nextjs-aqwertyuiop48.vercel.app/api/hello
 
 - Golang:
 - https://nextjs-five-sigma-16.vercel.app/api/applications
