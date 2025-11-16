@@ -5,8 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start -p 3000",
+    "lint": "next lint",
+    "scripts": "vercel dev",
+    "deploy": "vercel deploy --prod"
   },
   "dependencies": {
     "next": "12.3.0",
@@ -19,5 +21,8 @@
     "eslint": "8.23.0",
     "eslint-config-next": "12.3.0",
     "typescript": "4.9.4"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/sreegithub19/nextjs_app.git",
+  "license": "MIT"
 }
