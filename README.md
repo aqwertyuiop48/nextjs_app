@@ -43,25 +43,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details .
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
 
 Demo:
 
-https://user-images.githubusercontent.com/55496113/222212597-f4025ba5-d077-4895-bc87-539931582f7a.mp4
+Part 1:
+https://user-images.githubusercontent.com/55496113/222212901-3bd8a9d7-d1cb-45cc-9e56-e96282ea65a1.mp4
 
-URLs:-
+Part 2:
+https://user-images.githubusercontent.com/55496113/222212922-8cfddef9-59c4-4d32-85f0-d14f8c7be4b6.mp4
 
-- https://nextjs-sreegithub19.vercel.app/index
-- https://nextjs-sreegithub19.vercel.app
-- https://nextjs-sreegithub19.vercel.app/api/hello
 
-- Golang:
-- https://nextjs-five-sigma-16.vercel.app/api/applications
-
-Git:-
-
-- git add . && git commit -m "c" && git push origin main && yarn deploy
-
-Deploy:
-
-- yarn init -y

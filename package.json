@@ -3,11 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "vercel dev",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "vercel deploy --prod"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "12.3.0",
@@ -15,10 +14,10 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.26",
     "eslint": "8.23.0",
-    "eslint-config-next": "12.3.0"
-  },
-  "main": "index.js",
-  "repository": "https://github.com/sreegithub19/nextjs_app.git",
-  "license": "MIT"
+    "eslint-config-next": "12.3.0",
+    "typescript": "4.9.4"
+  }
 }
