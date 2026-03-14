@@ -1370,7 +1370,7 @@ document.querySelector('.game--restart').addEventListener('click', handleRestart
       };
       sprite = new Image();
       sprite.src =
-        "https://image.ibb.co/dr1HZy/Pf_RWr3_X_Imgur.png" +
+        "https://i.imgur.com/PfRWr3X.png" +
         "?" +
         new Date().getTime();
       sprite.setAttribute("crossOrigin", " ");
@@ -1382,7 +1382,7 @@ document.querySelector('.game--restart').addEventListener('click', handleRestart
       };
     
       finishSprite = new Image();
-      finishSprite.src = "https://image.ibb.co/b9wqnJ/i_Q7m_U25_Imgur.png"+
+      finishSprite.src = "https://i.imgur.com/iQ7mU25.png"+
       "?" +
       new Date().getTime();
       finishSprite.setAttribute("crossOrigin", " ");
